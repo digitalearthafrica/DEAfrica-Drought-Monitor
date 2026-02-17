@@ -1,0 +1,3460 @@
+<VRTDataset rasterXSize="122880" rasterYSize="61440">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform> -1.8000000000000000e+02,  2.9296875000000000e-03,  0.0000000000000000e+00,  9.0000000000000000e+01,  0.0000000000000000e+00, -2.9296875000000000e-03</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="2">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="3">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="4">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="5">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="6">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="7">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="8">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="9">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="10">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="11">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="12">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="13">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="14">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="15">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="16">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="17">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="18">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="19">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="20">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="21">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="22">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="23">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="24">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="25">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="26">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="27">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="28">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="29">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="30">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="31">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="32">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="33">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="34">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="35">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="36">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2018-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="37">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="38">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="39">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="40">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="41">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="42">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="43">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="44">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="45">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="46">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="47">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="48">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="49">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="50">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="51">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="52">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="53">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="54">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="55">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="56">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="57">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="58">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="59">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="60">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="61">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="62">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="63">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="64">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="65">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="66">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="67">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="68">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="69">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="70">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="71">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="72">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2019-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="73">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="74">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="75">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="76">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="77">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="78">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="79">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="80">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="81">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="82">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="83">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="84">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="85">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="86">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="87">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="88">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="89">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="90">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="91">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="92">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="93">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="94">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="95">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="96">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="97">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="98">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="99">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="100">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="101">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="102">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="103">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="104">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="105">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="106">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="107">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="108">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2020-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="109">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="110">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="111">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="112">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="113">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="114">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="115">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="116">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="117">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="118">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="119">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="120">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="121">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="122">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="123">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="124">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="125">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="126">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="127">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="128">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="129">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="130">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="131">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="132">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="133">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="134">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="135">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="136">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="137">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="138">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="139">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="140">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="141">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="142">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="143">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="144">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2021-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="145">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="146">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="147">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="148">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="149">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="150">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="151">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="152">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="153">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="154">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="155">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="156">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="157">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="158">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="159">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="160">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="161">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="162">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="163">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="164">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="165">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="166">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="167">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="168">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="169">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="170">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="171">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="172">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="173">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="174">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="175">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="176">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="177">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="178">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="179">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="180">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2022-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="181">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="182">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="183">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="184">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="185">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="186">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="187">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="188">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="189">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="190">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="191">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="192">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="193">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="194">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="195">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="196">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="197">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="198">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="199">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="200">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="201">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="202">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="203">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="204">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="205">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="206">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="207">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="208">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="209">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="210">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="211">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="212">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="213">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="214">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="215">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="216">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2023-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="217">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="218">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="219">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="220">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="221">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="222">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="223">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="224">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="225">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="226">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="227">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="228">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="229">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="230">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="231">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="232">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="233">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="234">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="235">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="236">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="237">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="238">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="239">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="240">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="241">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="242">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="243">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="244">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="245">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="246">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="247">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="248">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="249">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="250">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="251">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="252">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2024-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="253">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-01-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="254">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-01-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="255">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-01-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="256">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-02-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="257">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-02-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="258">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-02-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="259">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-03-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="260">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-03-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="261">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-03-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="262">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-04-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="263">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-04-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="264">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-04-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="265">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-05-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="266">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-05-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="267">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-05-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="268">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-06-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="269">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-06-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="270">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-06-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="271">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-07-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="272">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-07-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="273">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-07-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="274">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-08-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="275">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-08-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="276">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-08-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="277">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-09-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="278">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-09-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="279">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-09-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="280">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-10-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="281">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-10-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="282">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-10-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="283">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-11-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="284">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-11-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="285">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-11-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="286">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-12-D1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="287">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-12-D2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="288">
+    <NoDataValue>-9999</NoDataValue>
+    <Scale>0.001</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">/vsicurl/https://storage.googleapis.com/fao-gismgr-wapor-3-data/DATA/WAPOR-3/MAPSET/L1-RSM-D/WAPOR-3.L1-RSM-D.2025-12-D3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="122880" RasterYSize="61440" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <DstRect xOff="0" yOff="0" xSize="122880" ySize="61440" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
